@@ -13,11 +13,11 @@ This exploratory data analysis primarily entailed descriptive analysis; a method
 ## Features
 
 ### **Research Questions and Objectives:**
-1. **Price Variation with Airlines:**
-2. **Last-Minute Booking Effect:**
-3. **Departure and Arrival Time Impact:**
-4. **Source and Destination Influence:**
-5. **Class-based Pricing Comparison:**
+1. **Price Variation with Airlines**
+2. **Last-Minute Booking Effect**
+3. **Departure and Arrival Time Impact**
+4. **Source and Destination Influence**
+5. **Class-based Pricing Comparison**
 
 ### **Dataset Overview:**
 - Secondary data source from EaseMyTrip.
